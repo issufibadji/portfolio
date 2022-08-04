@@ -24,7 +24,7 @@ export default {
     updatePleaseWait () {
       if (this.pleaseWaitInstance == null) {
         this.pleaseWaitInstance = pleaseWait({
-          backgroundColor: '#D98324',
+          backgroundColor: '#8d32ab',
           loadingHtml: `
           <div class="sk-chase">
             <div class="sk-chase-dot"></div>
