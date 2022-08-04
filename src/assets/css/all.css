@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 .bg-color {
-    background-color: #D98324!important;
+    background-color: linear-gradient(to bottom right, #A40606, #D98324) !important;
 }
 
 .nixie-one {
