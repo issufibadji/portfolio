@@ -82,7 +82,7 @@ export default {
 <style scoped>
 
 .page-footer{
-  background-color: #e2e2e2;
+  background-color: #1dbedb;
 }
 
 .skew {
