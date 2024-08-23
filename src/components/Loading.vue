@@ -58,7 +58,7 @@ div.sk-chase{ margin: 0 auto!important; }
 .pg-loading-logo-header{ display: none!important; }
 
 .loading-message{
-  color: #f5f5f5;
+  color: #27a827;
   margin-top: 30px;
 }
 
